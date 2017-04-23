@@ -1,0 +1,20 @@
+{
+  "name": "office",
+  "version": "1.0.0",
+  "description": "A basic OOP Office structured used as a playground to learn TypeScript",
+  "main": "scripts/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "TypeScript",
+    "OOP",
+    "Sample"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-exec": "^2.0.0"
+  }
+}
