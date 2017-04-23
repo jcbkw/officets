@@ -1,7 +1,7 @@
 {
-  "name": "office",
+  "name": "officets",
   "version": "1.0.0",
-  "description": "A basic OOP Office structured used as a playground to learn TypeScript",
+  "description": "A basic OOP Office structure used as a playground to learn TypeScript",
   "repository": "https://github.com/jcbkw/officets.git",    
   "main": "scripts/app.js",
   "scripts": {
